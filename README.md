@@ -72,7 +72,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kloudd&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kloudd&layout=compact&theme=radical" height="170" />
 </p>
 
